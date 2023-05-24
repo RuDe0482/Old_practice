@@ -1,0 +1,44 @@
+C:\Users\Mary\Desktop\ПР25\ПР25\bin\Debug\ПР25.exe.config
+C:\Users\Mary\Desktop\ПР25\ПР25\bin\Debug\ПР25.exe
+C:\Users\Mary\Desktop\ПР25\ПР25\bin\Debug\ПР25.pdb
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.csprojAssemblyReference.cache
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\MainWindow.g.cs
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Login.g.cs
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Regin.g.cs
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\App.g.cs
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25_MarkupCompile.cache
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25_MarkupCompile.lref
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\MainWindow.baml
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Login.baml
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Regin.baml
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.g.resources
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.Properties.Resources.resources
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.csproj.GenerateResource.cache
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.exe
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.pdb
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Main.g.cs
+C:\Users\Mary\Desktop\ПР25\ПР25\bin\Debug\MySql.Data.dll
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\Pages\Main.baml
+C:\Users\Mary\Desktop\ПР25\ПР25\obj\Debug\ПР25.csproj.CopyComplete
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\bin\Debug\ПР25.exe.config
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\bin\Debug\ПР25.exe
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\bin\Debug\ПР25.pdb
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\bin\Debug\MySql.Data.dll
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.csprojAssemblyReference.cache
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\MainWindow.g.cs
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Login.g.cs
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Main.g.cs
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Regin.g.cs
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\App.g.cs
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25_MarkupCompile.cache
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25_MarkupCompile.lref
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\MainWindow.baml
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Login.baml
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Main.baml
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\Pages\Regin.baml
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.g.resources
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.Properties.Resources.resources
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.csproj.GenerateResource.cache
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.csproj.CopyComplete
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.exe
+C:\Users\Mary\Desktop\Учёба\МДК 05.02 Ощепков\ПР25\ПР25\obj\Debug\ПР25.pdb
